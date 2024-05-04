@@ -1,4 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Banuka De Silva=======================================================================================================================================Cloud & DevOps Enthusiast-------------------------DevOps enthusiast on a journey to mastery. Leveraging AWS for cloud infrastructure and diving deep into Terraform, Docker, and Kubernetes for automation and orchestration. Adding Python to my toolkit for increased efficiency. Always open to learning and collaborating!* 🌍  I'm based in Australia* 🧠  I'm learning AWS | Tearraform | Python | Kubernetes* 🤝  I'm open to collaborating on Projects
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Banuka De Silva
+=======================================================================================================================================
+
+Cloud & DevOps Enthusiast
+-------------------------
+
+DevOps enthusiast on a journey to mastery. Leveraging AWS for cloud infrastructure and diving deep into Terraform, Docker, and Kubernetes for automation and orchestration. Adding Python to my toolkit for increased efficiency. Always open to learning and collaborating!* 🌍  I'm based in Australia* 🧠  I'm learning AWS | Tearraform | Python | Kubernetes* 🤝  I'm open to collaborating on Projects
 
 ### Skills
 
